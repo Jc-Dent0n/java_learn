@@ -1,1 +1,5 @@
-New code here via Win in brackets
+public class aloha {
+    public static void main(String[] args) {
+        System.out.println("Aloha Java!!");
+    }
+}
